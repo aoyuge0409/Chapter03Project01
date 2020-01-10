@@ -1,0 +1,10 @@
+C:\Andressa\Chapter03Project01\Chapter03Project01\obj\Debug\Chapter03Project01.csprojAssemblyReference.cache
+C:\Andressa\Chapter03Project01\Chapter03Project01\obj\Debug\Chapter03Project01.frmMain.resources
+C:\Andressa\Chapter03Project01\Chapter03Project01\obj\Debug\Chapter03Project01.Properties.Resources.resources
+C:\Andressa\Chapter03Project01\Chapter03Project01\obj\Debug\Chapter03Project01.csproj.GenerateResource.cache
+C:\Andressa\Chapter03Project01\Chapter03Project01\obj\Debug\Chapter03Project01.csproj.CoreCompileInputs.cache
+C:\Andressa\Chapter03Project01\Chapter03Project01\bin\Debug\Chapter03Project01.exe.config
+C:\Andressa\Chapter03Project01\Chapter03Project01\bin\Debug\Chapter03Project01.exe
+C:\Andressa\Chapter03Project01\Chapter03Project01\bin\Debug\Chapter03Project01.pdb
+C:\Andressa\Chapter03Project01\Chapter03Project01\obj\Debug\Chapter03Project01.exe
+C:\Andressa\Chapter03Project01\Chapter03Project01\obj\Debug\Chapter03Project01.pdb
